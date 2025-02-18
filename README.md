@@ -24,16 +24,20 @@ Based on the YOLOv7 format, the dataset is a ZIP file containing 4696 RGB images
 [![AI-powered annotation of a Dwarf Galaxy (NGC185) with a Vespera smart telescope (14/9/2024)](https://img.youtube.com/vi/VgeiGNtPsVw/0.jpg)](https://www.youtube.com/watch?v=VgeiGNtPsVw)
 
 
-## 📚 Research Papers Using This Dataset
+## 📚 Research
+
+The dataset is present here:
+
+- **[2023] DeepSpaceYoloDataset: an annotated set of smart telescopes images** – [DOI Link](https://doi.org/10.5281/zenodo.8387071) 
 
 The following paper describes the dataset:
 
-- **DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes** – [DOI Link](https://doi.org/10.3390/data9010012) 
+- **[2024] DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes** – [DOI Link](https://doi.org/10.3390/data9010012) 
 
 The following studies have utilized this dataset:
 
-- **Détection d'objets célestes dans des images astronomiques par IA explicable** – [DOI Link](https://doi.org/10.48550/arXiv.2311.10592)  
-- **Deep Sky Objects Detection with Deep Learning for Electronically Assisted Astronomy** – [DOI Link](https://doi.org/10.3390/astronomy3020009)  
+- **[2023] Détection d'objets célestes dans des images astronomiques par IA explicable** – [DOI Link](https://doi.org/10.48550/arXiv.2311.10592)  
+- **[2024] Deep Sky Objects Detection with Deep Learning for Electronically Assisted Astronomy** – [DOI Link](https://doi.org/10.3390/astronomy3020009)  
 
 If you use this dataset in a publication, please notify us to include it in this list.
 
@@ -42,14 +46,15 @@ If you use this dataset in a publication, please notify us to include it in this
 If you use **DeepSpaceYoloDataset** in your work, please cite it as follows:
 
 ```bibtex
-@misc{parisot_2023_8387071,
-  author       = {Parisot, Olivier},
-  title        = {{DeepSpaceYoloDataset: an annotated set of smart telescopes images}},
-  year         = 2023,
-  publisher    = {Zenodo},
-  version      = {1.0.0},
-  doi          = {10.5281/zenodo.8387071},
-  url          = {https://doi.org/10.5281/zenodo.8387071},
+@article{parisot2024deepspaceyolodataset,
+  title={DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes},
+  author={Parisot, Olivier},
+  journal={Data},
+  volume={9},
+  number={1},
+  pages={12},
+  year={2024},
+  publisher={MDPI}
 }
 ```
 
