@@ -20,10 +20,12 @@ Based on the YOLOv7 format, the dataset is a ZIP file containing 4696 RGB images
 
 ## 📑 Examples
 
-AI-powered observation of Dumbbell Nebula with a Vespera smart telescope (8/7/2024)
+### AI-powered observation of Dumbbell Nebula (M27) with a Vespera smart telescope (8/7/2024)
+
 [![AI-powered observation of Dumbbell Nebula with a Vespera smart telescope (8/7/2024)](https://img.youtube.com/vi/R0H--9pOwv0/0.jpg)](https://www.youtube.com/watch?v=R0H--9pOwv0)
 
-AI-powered annotation of a Dwarf Galaxy (NGC185) with a Vespera smart telescope (14/9/2024)
+### AI-powered annotation of a Dwarf Galaxy (NGC185) with a Vespera smart telescope (14/9/2024)
+
 [![AI-powered annotation of a Dwarf Galaxy (NGC185) with a Vespera smart telescope (14/9/2024)](https://img.youtube.com/vi/VgeiGNtPsVw/0.jpg)](https://www.youtube.com/watch?v=VgeiGNtPsVw)
 
 
