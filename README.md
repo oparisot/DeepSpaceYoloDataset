@@ -1,8 +1,10 @@
-# 📂 DeepSpaceYoloDataset: [Short Description]
+# DeepSpaceYoloDataset
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8387071.svg)](https://doi.org/10.5281/zenodo.8387071)
 
 ## 📖 Description
+
+DeepSpaceYoloDataset is an annotated set of smart telescopes images.
 
 During the MILAN research project (MachIne Learning for AstroNomy), we have compiled a large collection of deep sky images during Electronically Assisted Astronomy sessions in Luxembourg, France, Belgium.
 
@@ -11,7 +13,8 @@ We have used two instruments for several months (from March 2022 to September 20
 
 ## 📜 Dataset Structure
 
-Training images were splitted into 608x608 patches. Based on the YOLOv7 format, the dataset is a ZIP file containing 4696 RGB images, and the corresponding 4696 labels text files with the positions of deep sky objets in the images.
+Training images were splitted into 608x608 patches. 
+Based on the YOLOv7 format, the dataset is a ZIP file containing 4696 RGB images, and the corresponding 4696 labels text files with the positions of deep sky objets in the images.
 
 
 ## 📑 Usage
@@ -21,11 +24,14 @@ Training images were splitted into 608x608 patches. Based on the YOLOv7 format, 
 
 ## 📚 Research Papers Using This Dataset
 
+The following paper describes the dataset:
+
+- **DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes** – [DOI Link](https://doi.org/10.3390/data9010012) 
+
 The following studies have utilized this dataset:
 
-- **[Paper Title 1]** – [DOI Link](https://doi.org/xxxxx)  
-- **[Paper Title 2]** – [DOI Link](https://doi.org/xxxxx)  
-- **[Paper Title 3]** – [DOI Link](https://doi.org/xxxxx)  
+- **Détection d'objets célestes dans des images astronomiques par IA explicable** – [DOI Link](https://doi.org/10.48550/arXiv.2311.10592)  
+- **Deep Sky Objects Detection with Deep Learning for Electronically Assisted Astronomy** – [DOI Link](https://doi.org/10.3390/astronomy3020009)  
 
 If you use this dataset in a publication, please notify us to include it in this list.
 
@@ -47,9 +53,10 @@ If you use **DeepSpaceYoloDataset** in your work, please cite it as follows:
 
 ## 📝 License
 
-This dataset is released under the **[License Name]**. See [`LICENSE`](LICENSE) for details.
+This dataset is released under the **CC Attribution-NonCommercial-NoDerivatives 4.0 International**. See [`LICENSE`](https://zenodo.org/records/8387071/files/LICENCE.txt?download=1) for details.
 
 ---
 
-✉️ **Contact**: For questions or collaborations, please contact **[Your Name]** at **[Your Email]** or open an issue on **GitHub**.  
-🌍 **Project Page**: [Link to project or related repository]
+✉️ **Contact**: For questions or collaborations, please contact **Olivier Parisot** at **olivier.parisot@list.lu** or open an issue on **GitHub**.  
+🌍 **Project Page**: [https://www.list.lu/fr/recherche/projet/milan2/]
+
