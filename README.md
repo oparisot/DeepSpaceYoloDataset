@@ -17,9 +17,10 @@ Training images were splitted into 608x608 patches.
 Based on the YOLOv7 format, the dataset is a ZIP file containing 4696 RGB images, and the corresponding 4696 labels text files with the positions of deep sky objets in the images.
 
 
-## 📑 Usage
+## 📑 Example
 
 ...
+[![AI-powered annotation of a Dwarf Galaxy (NGC185) with a Vespera smart telescope (14/9/2024)](https://img.youtube.com/vi/VgeiGNtPsVw/0.jpg)](https://www.youtube.com/watch?v=VgeiGNtPsVw)
 
 
 ## 📚 Research Papers Using This Dataset
@@ -55,8 +56,10 @@ If you use **DeepSpaceYoloDataset** in your work, please cite it as follows:
 
 This dataset is released under the **CC Attribution-NonCommercial-NoDerivatives 4.0 International**. See [`LICENSE`](https://zenodo.org/records/8387071/files/LICENCE.txt?download=1) for details.
 
----
 
-✉️ **Contact**: For questions or collaborations, please contact **Olivier Parisot** at **olivier.parisot@list.lu** or open an issue on **GitHub**.  
+## ✉️ Contact
+
+For questions or collaborations, please contact **Olivier Parisot** at **olivier.parisot@list.lu** or open an issue on **GitHub**.
+
 🌍 **Project Page**: [https://www.list.lu/fr/recherche/projet/milan2/]
 
