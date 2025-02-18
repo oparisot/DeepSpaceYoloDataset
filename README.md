@@ -26,7 +26,7 @@ Based on the YOLOv7 format, the dataset is a ZIP file containing 4696 RGB images
 
 ## 📚 Research
 
-The dataset is present here:
+The dataset can be found here:
 
 - **[2023] DeepSpaceYoloDataset: an annotated set of smart telescopes images** – [DOI Link](https://doi.org/10.5281/zenodo.8387071) 
 
