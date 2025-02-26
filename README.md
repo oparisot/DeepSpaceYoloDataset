@@ -6,7 +6,7 @@
 
 DeepSpaceYoloDataset is an annotated set of smart telescopes images.
 
-During the MILAN research project [https://www.list.lu/fr/recherche/projet/milan2/], we have compiled a large collection of deep sky images during Electronically Assisted Astronomy sessions in Luxembourg, France, Belgium.
+During the MILAN research project [https://www.list.lu/en/recherche/projet/milan2/], we have compiled a large collection of deep sky images during Electronically Assisted Astronomy sessions in Luxembourg, France, Belgium.
 
 We have used two instruments for several months (from March 2022 to September 2023): a Stellina smart telescope (https://vaonis.com/stellina) and a Vespera smart telescope (https://vaonis.com/vespera). We have captured data for a representative set of deep sky objects from the Messier / NGC / IC / Sharpless2 / Barnard catalogues. Different types of celestial objects were considered: emission/reflection/dark/planetary nebula, galaxies, globular/open clusters. Images were obtained after the capture and the stacking of sub-frames of 10 seconds exposure time. 
 
@@ -27,6 +27,10 @@ AI-powered observation of Dumbbell Nebula (M27) with a Vespera smart telescope (
 AI-powered annotation of a Dwarf Galaxy (NGC185) with a Vespera smart telescope (14/9/2024)
 
 [![AI-powered annotation of a Dwarf Galaxy (NGC185) with a Vespera smart telescope (14/9/2024)](https://img.youtube.com/vi/VgeiGNtPsVw/0.jpg)](https://www.youtube.com/watch?v=VgeiGNtPsVw)
+
+AI-powered annotation of M1 through a Vespera smart telescope (2/2/2025)
+
+[![AI-powered annotation of M1 through a Vespera smart telescope (2/2/2025)](https://img.youtube.com/vi/QtUkOTkg2Zs/0.jpg)](https://www.youtube.com/watch?v=QtUkOTkg2Zs)
 
 
 ## 📚 Research
