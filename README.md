@@ -15,10 +15,12 @@ We have used two instruments for several months (from March 2022 to September 20
 
 Training images were splitted into 608x608 patches. 
 
-Based on the YOLOv7 format, the dataset is a ZIP file containing 4696 RGB images, and the corresponding 4696 labels text files with the positions of deep sky objets in the images.
+Based on the YOLO format, the dataset is a ZIP file containing 4696 RGB images, and the corresponding 4696 labels text files with the positions of deep sky objets in the images.
 
 
 ## 📑 Examples
+
+The dataset was used to train a YOLOv7 model -- allowing to obtain the following results.
 
 AI-powered observation of Dumbbell Nebula (M27) with a Vespera smart telescope (8/7/2024)
 
