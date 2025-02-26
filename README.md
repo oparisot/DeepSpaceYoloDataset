@@ -49,6 +49,7 @@ The following studies were based on this dataset:
 
 - **[2023] Détection d'objets célestes dans des images astronomiques par IA explicable** – [DOI Link](https://doi.org/10.48550/arXiv.2311.10592)  
 - **[2024] Deep Sky Objects Detection with Deep Learning for Electronically Assisted Astronomy** – [DOI Link](https://doi.org/10.3390/astronomy3020009)  
+- **[2025] Исследование возможности детектирования объектов глубокого космоса c помощью методов компьютерного зрения** – [Link]([https://doi.org/10.3390/astronomy3020009](https://www.researchgate.net/publication/387825359_Issledovanie_vozmoznosti_detektirovania_obektov_glubokogo_kosmosa_c_pomosu_metodov_komputernogo_zrenia))  
 
 If you use this dataset in a publication, please notify us to include it in this list.
 
