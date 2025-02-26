@@ -45,7 +45,7 @@ The following paper describes the dataset:
 
 - **[2024] DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes** – [DOI Link](https://doi.org/10.3390/data9010012) 
 
-The following studies have utilized this dataset:
+The following studies were based on this dataset:
 
 - **[2023] Détection d'objets célestes dans des images astronomiques par IA explicable** – [DOI Link](https://doi.org/10.48550/arXiv.2311.10592)  
 - **[2024] Deep Sky Objects Detection with Deep Learning for Electronically Assisted Astronomy** – [DOI Link](https://doi.org/10.3390/astronomy3020009)  
