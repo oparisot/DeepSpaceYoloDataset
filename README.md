@@ -34,6 +34,9 @@ AI-powered annotation of M1 through a Vespera smart telescope (2/2/2025)
 
 [![AI-powered annotation of M1 through a Vespera smart telescope (2/2/2025)](https://img.youtube.com/vi/QtUkOTkg2Zs/0.jpg)](https://www.youtube.com/watch?v=QtUkOTkg2Zs)
 
+AI-powered annotation of NGC2440 Nebula with a Stellina portable smart telescope (3/3/2025) 
+
+[![AI-powered annotation of NGC2440 Nebula with a Stellina portable smart telescope (3/3/2025)](https://img.youtube.com/vi/W_IayjuKhLY/0.jpg)](https://youtu.be/W_IayjuKhLY)
 
 ## 📚 Research
 
