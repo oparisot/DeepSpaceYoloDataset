@@ -48,14 +48,15 @@ The following paper describes the dataset:
 
 - **[2024] DeepSpaceYoloDataset: Annotated Astronomical Images Captured with Smart Telescopes** – [DOI Link](https://doi.org/10.3390/data9010012) 
 
-The following studies were based on this dataset:
+The following papers are based on work carried out on **DeepSpaceYoloDataset**:
 
 - **[2023] Détection d'objets célestes dans des images astronomiques par IA explicable** – [DOI Link](https://doi.org/10.48550/arXiv.2311.10592)  
-- **[2024] Deep Sky Objects Detection with Deep Learning for Electronically Assisted Astronomy** – [DOI Link](https://doi.org/10.3390/astronomy3020009)  
+- **[2024] Deep Sky Objects Detection with Deep Learning for Electronically Assisted Astronomy** – [DOI Link](https://doi.org/10.3390/astronomy3020009)
+- **[2025] Combining AI-powered detection and Immersive Technologies for Robotic Space Mission Planning** – [DOI Link](https://doi.org/10.5281/zenodo.15002649) 
 - **[2025] Исследование возможности детектирования объектов глубокого космоса c помощью методов компьютерного зрения** – [Link](https://www.researchgate.net/publication/387825359_Issledovanie_vozmoznosti_detektirovania_obektov_glubokogo_kosmosa_c_pomosu_metodov_komputernogo_zrenia))  
 - **[2025] Deep sky object detection in astronomical imagery using YOLO models: a comparative assessment** – [DOI Link](http://dx.doi.org/10.1007/s00521-025-11223-4) 
 
-If you use this dataset in a publication, please notify us to include it in this list.
+If you have a publication related to these works, please notify us to include it in this list.
 
 ## 🎓 Citation
 
