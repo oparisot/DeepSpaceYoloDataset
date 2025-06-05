@@ -38,6 +38,12 @@ AI-powered annotation of NGC2440 Nebula with a Stellina portable smart telescope
 
 [![AI-powered annotation of NGC2440 Nebula with a Stellina portable smart telescope (3/3/2025)](https://img.youtube.com/vi/W_IayjuKhLY/0.jpg)](https://youtu.be/W_IayjuKhLY)
 
+AI-powered detection of Messier 98 Galaxy through a Vespera portable smart telescope (24/5/2025)
+
+[![AI-powered detection of Messier 98 Galaxy through a Vespera portable smart telescope (24/5/2025)](https://img.youtube.com/vi/fv9MrPHOwDs/0.jpg)](https://www.youtube.com/watch?v=fv9MrPHOwDs)
+
+
+
 ## 📚 Research
 
 The dataset can be found here:
