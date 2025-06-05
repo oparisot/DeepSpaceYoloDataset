@@ -55,6 +55,7 @@ The following papers are based on work carried out on **DeepSpaceYoloDataset**:
 - **[2025] Combining AI-powered detection and Immersive Technologies for Robotic Space Mission Planning** – [DOI Link](https://doi.org/10.5281/zenodo.15002649) 
 - **[2025] Исследование возможности детектирования объектов глубокого космоса c помощью методов компьютерного зрения** – [Link](https://www.researchgate.net/publication/387825359_Issledovanie_vozmoznosti_detektirovania_obektov_glubokogo_kosmosa_c_pomosu_metodov_komputernogo_zrenia))  
 - **[2025] Deep sky object detection in astronomical imagery using YOLO models: a comparative assessment** – [DOI Link](http://dx.doi.org/10.1007/s00521-025-11223-4) 
+- **[2025] COSMICA: A Novel Dataset for Astronomical Object Detection with Evaluation Across Diverse Detection Architectures** – [DOI Link](https://doi.org/10.3390/jimaging11060184) 
 
 If you have a publication related to these works, please notify us to include it in this list.
 
