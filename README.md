@@ -10,6 +10,8 @@ During the MILAN research project [https://www.list.lu/en/recherche/projet/milan
 
 We have used two instruments for several months (from March 2022 to September 2023): a Stellina smart telescope (https://vaonis.com/stellina) and a Vespera smart telescope (https://vaonis.com/vespera). We have captured data for a representative set of deep sky objects from the Messier / NGC / IC / Sharpless2 / Barnard catalogues. Different types of celestial objects were considered: emission/reflection/dark/planetary nebula, galaxies, globular/open clusters. Images were obtained after the capture and the stacking of sub-frames of 10 seconds exposure time. 
 
+![DeepSpaceYoloDataset](DeepSpaceYoloDataset_cover.png)
+
 
 ## 📜 Dataset Structure
 
