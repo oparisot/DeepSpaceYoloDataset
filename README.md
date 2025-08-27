@@ -64,6 +64,7 @@ The following papers are based on work carried out on **DeepSpaceYoloDataset**:
 - **[2025] COSMICA: A Novel Dataset for Astronomical Object Detection with Evaluation Across Diverse Detection Architectures** – [DOI Link](https://doi.org/10.3390/jimaging11060184) 
 - **[2025] Method and Tools to Collect, Process, and Publish Raw and AI-Enhanced Astronomical Observations on YouTube** – [DOI Link](https://doi.org/10.3390/electronics14132567) 
 - **[2025] LVM4CSI: Enabling Direct Application of Pre-Trained Large Vision Models for Wireless Channel Tasks** – [DOI Link](https://doi.org/10.48550/arXiv.2507.05121) 
+- **[2025] Robustness analysis of Deep Sky Objects detection models on HPC** – [DOI Link](https://doi.org/10.48550/arXiv.2508.09831) 
 
 If you have a publication related to these works, please notify us to include it in this list.
 
