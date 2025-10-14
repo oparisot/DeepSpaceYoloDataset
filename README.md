@@ -8,7 +8,9 @@
 
 During the MILAN research project [https://www.list.lu/en/recherche/projet/milan2/], we have compiled a large collection of deep sky images during Electronically Assisted Astronomy sessions in Luxembourg, France, Belgium.
 
-We have used two instruments for several months (from March 2022 to September 2023): a Stellina smart telescope (https://vaonis.com/stellina) and a Vespera smart telescope (https://vaonis.com/vespera). We have captured data for a representative set of deep sky objects from the Messier / NGC / IC / Sharpless2 / Barnard catalogues. Different types of celestial objects were considered: emission/reflection/dark/planetary nebula, galaxies, globular/open clusters. Images were obtained after the capture and the stacking of sub-frames of 10 seconds exposure time. 
+We have used two instruments for several months (from March 2022 to September 2023): a Stellina smart telescope (https://vaonis.com/stellina) and a Vespera smart telescope (https://vaonis.com/vespera). We have captured data for a representative set of deep sky objects from the Messier / NGC / IC / Sharpless2 / Barnard catalogues. Different types of celestial objects were considered: emission/reflection/dark/planetary nebula, galaxies, globular/open clusters. 
+
+Images were obtained after the capture and the stacking of sub-frames of 10 seconds exposure time. 
 
 ![DeepSpaceYoloDataset](DeepSpaceYoloDataset_cover.png)
 
@@ -44,7 +46,9 @@ AI-powered detection of Messier 98 Galaxy through a Vespera portable smart teles
 
 [![AI-powered detection of Messier 98 Galaxy through a Vespera portable smart telescope (24/5/2025)](https://img.youtube.com/vi/fv9MrPHOwDs/0.jpg)](https://www.youtube.com/watch?v=fv9MrPHOwDs)
 
+AI-powered Detection of Messier54 cluster with a Vespera portable smart telescope (30/6/2025) 
 
+[![AI-powered Detection of Messier54 cluster with a Vespera portable smart telescope (30/6/2025) ](https://img.youtube.com/vi/kJJHumBo6MQ/0.jpg)](https://www.youtube.com/watch?v=kJJHumBo6MQ)
 
 ## 📚 Research
 
