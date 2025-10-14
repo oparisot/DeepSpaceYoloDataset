@@ -4,7 +4,7 @@
 
 ## 📖 Description
 
-DeepSpaceYoloDataset is an annotated set of smart telescopes images.
+**DeepSpaceYoloDataset** is an annotated set of smart telescopes images.
 
 During the MILAN research project [https://www.list.lu/en/recherche/projet/milan2/], we have compiled a large collection of deep sky images during Electronically Assisted Astronomy sessions in Luxembourg, France, Belgium.
 
@@ -22,7 +22,7 @@ Based on the YOLO format, the dataset is a ZIP file containing 4696 RGB images, 
 
 ## 📑 Examples
 
-The dataset was used to train a YOLOv7 model -- allowing to obtain the following results.
+**DeepSpaceYoloDataset** was used to train a YOLOv7 model -- allowing to obtain the following results.
 
 AI-powered observation of Dumbbell Nebula (M27) with a Vespera smart telescope (8/7/2024)
 
