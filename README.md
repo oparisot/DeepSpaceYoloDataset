@@ -50,6 +50,11 @@ AI-powered Detection of Messier54 cluster with a Vespera portable smart telescop
 
 [![AI-powered Detection of Messier54 cluster with a Vespera portable smart telescope (30/6/2025) ](https://img.youtube.com/vi/kJJHumBo6MQ/0.jpg)](https://www.youtube.com/watch?v=kJJHumBo6MQ)
 
+Detection of Comet C/2025 R2 (Swan) with a Vespera smart telescope (6/11/2025)
+
+[![Detection of Comet C/2025 R2 (Swan) with a Vespera smart telescope (6/11/2025) ](https://img.youtube.com/vi/l5kmBhIyOn0/0.jpg)](https://www.youtube.com/watch?v=l5kmBhIyOn0)
+
+
 ## 📚 Research
 
 The dataset can be found here:
