@@ -73,7 +73,7 @@ The following papers are based on work carried out on **DeepSpaceYoloDataset**:
 - **[2025] Robustness analysis of Deep Sky Objects detection models on HPC** – [DOI Link](https://doi.org/10.48550/arXiv.2508.09831)
 - **[2025] YOLO OPTIMIZATION FOR EDGE AI: A LIGHTWEIGHT APPROACH FOR DEEP SKY OBJECT DETECTION** – [DOI Link](https://doi.org/10.31987/ijict.8.2.331) 
 - **[2025] Contrast Transformations as a Stage for Improving Deep Space Object Detection Quality in Astronomical Images** – [DOI Link](https://doi.org/10.1007/978-3-032-07690-8_17) 
-- **[2025] Image-Based Constellation Recognition Using Deep Learning on Consumer-Grade Sky Imagery ** – [DOI Link](https://doi.org/10.21275/SR251220164234) 
+- **[2025] Image-Based Constellation Recognition Using Deep Learning on Consumer-Grade Sky Imagery** – [DOI Link](https://doi.org/10.21275/SR251220164234) 
 
 If you have a publication related to these works, please notify us to include it in this list.
 
