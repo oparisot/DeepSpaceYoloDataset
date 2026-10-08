@@ -83,6 +83,7 @@ The following papers are based on work carried out on **DeepSpaceYoloDataset**:
 - **[2025] Image-Based Constellation Recognition Using Deep Learning on Consumer-Grade Sky Imagery** – [DOI Link](https://doi.org/10.21275/SR251220164234) 
 - **[2025] Galaxy Classification: A Comparative Study** – [DOI Link](https://doi.org/10.1109/ICAAIC64647.2025.11330315)
 - **[2026] An Extended Evaluation Split for DeepSpaceYoloDataset** – [DOI Link](https://doi.org/10.48550/arXiv.2604.27593)
+- **[2026] Zero-shot Detection in Smart Telescopes Images** – [Link](https://www.researchgate.net/publication/415376236_Zero-shot_Detection_in_Smart_Telescopes_Images)
 
 If you have a publication related to these works, please notify us to include it in this list.
 
